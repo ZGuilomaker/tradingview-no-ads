@@ -1,6 +1,6 @@
 # TradingView No ADS 🚀
 
-![Ícone da Extensão](https://i.imgur.com/uCgWb2x.png)
+![Ícone da Extensão](https://i.imgur.com/qPpk2E8.png)
 
 Uma extensão de navegador simples e eficaz para bloquear o banner de anúncio que aparece sobre os gráficos na versão gratuita do TradingView, proporcionando uma experiência de análise mais limpa e focada.
 
