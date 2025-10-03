@@ -1,0 +1,19 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    path {
+      stroke: #E0E3E6;
+    }
+    @media (prefers-color-scheme: dark) {
+      path {
+        stroke: #E0E3E6;
+      }
+    }
+    @media (prefers-color-scheme: light) {
+      path {
+        stroke: #2A2E39;
+      }
+    }
+  </style>
+  <path d="M64 12L12 32V67C12 96.8 64 116 64 116C64 116 116 96.8 116 67V32L64 12Z" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M40 80L56 64L72 80L88 64" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

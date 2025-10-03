@@ -1,0 +1,8 @@
+/*
+  Oculta o contêiner principal do anúncio do gráfico.
+  O '!important' ajuda a garantir que esta regra sobrescreva 
+  qualquer outra que o site tente aplicar.
+*/
+#charting-ad {
+  display: none !important;
+}

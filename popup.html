@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloqueador TV</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <svg width="32" height="32" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M64 12L12 32V67C12 96.8 64 116 64 116C64 116 116 96.8 116 67V32L64 12Z" stroke="#2962FF" stroke-width="8" stroke-linejoin="round"/>
+                <path d="M40 80L56 64L72 80L88 64" stroke="#2962FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <h1>Bloqueador Ativo</h1>
+        </div>
+        
+        <div class="stats">
+            <span class="label">Anúncios bloqueados:</span>
+            <span id="blocked-count" class="count">0</span>
+        </div>
+
+        <div class="status">
+            <span>Status:</span>
+            <span class="active">ATIVO</span>
+        </div>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+</html>
